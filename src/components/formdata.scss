@@ -22,11 +22,9 @@
         cursor: pointer;
         margin: 10px 0px;        
         color: whitesmoke;
-    font-size: 1.3rem;
-    :hover{
-        background-color: rgba(158, 48, 29, 0.884);
-    color: rgb(83, 158, 168);
+        font-size: 1.3rem;
+        &:hover{
+            background-color: rgba(104, 4, 4, 0.863);
+        }
     }
-    }
-
 }

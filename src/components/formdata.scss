@@ -1,0 +1,26 @@
+.heading{
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+.form{
+    border: 1px solid black;
+    background-color: white;
+    width: 60%;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    button{
+        padding: 20px;
+            border-radius: 8px;
+        border: none;
+        width: 200px;
+        background-color: rgb(65, 158, 29);
+        cursor: pointer;
+        margin: 10px 0px;        
+        color: whitesmoke;
+        font-size: 1.3rem;
+    }
+}
